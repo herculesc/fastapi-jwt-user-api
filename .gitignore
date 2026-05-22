@@ -1,0 +1,8 @@
+venv/
+pyenv/
+Lib/
+Scripts/
+site-packages/
+__pycache__/
+*.pyc
+.env
