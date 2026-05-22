@@ -28,7 +28,7 @@ Backend API built with FastAPI featuring JWT authentication, PostgreSQL integrat
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-user/your-repo.git
+git clone https://github.com/herculesc/fastapi-jwt-user-api.git
 cd your-repo
 python -m venv venv
 venv\Scripts\activate
