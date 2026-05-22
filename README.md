@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI JWT Authentication API 🚀
 
 Backend API built with FastAPI featuring JWT authentication, PostgreSQL integration, and full CRUD operations.
@@ -33,3 +34,7 @@ cd your-repo
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+=======
+# fastapi-jwt-user-api
+REST API built with FastAPI featuring JWT authentication, PostgreSQL integration, and full CRUD user management.
+>>>>>>> 3246976717775f8369c7d4b5230b66cec0b81c21
