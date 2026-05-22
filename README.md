@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FastAPI JWT Authentication API 🚀
 
 Backend API built with FastAPI featuring JWT authentication, PostgreSQL integration, and full CRUD operations.
